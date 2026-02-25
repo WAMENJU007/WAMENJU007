@@ -7,3 +7,5 @@ I'm looking to collaborate on friendly  open source projects
 Git and Github
 python
 machine learning
+PROJECT NAME ALL BLACK
+EMAIL; josiahmwangi18@gmail.com
