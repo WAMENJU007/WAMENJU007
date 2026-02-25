@@ -1,1 +1,9 @@
-JOSIAH MWANGI WAMENJU A MALE STUDENT IN ARTIFICIAL INTELLIGENCE AI
+#Hi, i'm JOSIAH MWANGI WAMENJU
+Sex,male 28 years of age 
+I'm currently learning ARTIFICIAL INTELLIGENCE IN Mahanaim College 
+I'm interested in artificial intelligence
+I'm looking to collaborate on friendly  open source projects
+## Skills I'm building
+Git and Github
+python
+machine learning
