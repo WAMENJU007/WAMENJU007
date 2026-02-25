@@ -11,4 +11,4 @@ machine learning
 PROJECT NAME ALL BLACK
 ##HOW TO REACH ME
 +25470443404
-EMAIL; josiahmwangi18@gmail.com
+EMAIL; josiahmwangi188@gmail.com
