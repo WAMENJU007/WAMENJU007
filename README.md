@@ -7,5 +7,8 @@ I'm looking to collaborate on friendly  open source projects
 Git and Github
 python
 machine learning
+## CURRENT PROJECTS
 PROJECT NAME ALL BLACK
+##HOW TO REACH ME
++25470443404
 EMAIL; josiahmwangi18@gmail.com
